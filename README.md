@@ -63,5 +63,3 @@ Este projeto está sob a licença [MIT License](https://opensource.org/licenses/
 *  **[João Pedro Martins Falconi](https://github.com/whotfjao)**
 *  **[Mariana Del Valle Panza Mora](https://github.com/whotfjao)**
 *  **[Paulo Augusto Andrade de Moura Matilde](https://github.com/whotfjao)**
-*  
-
