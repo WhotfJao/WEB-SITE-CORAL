@@ -1,4 +1,4 @@
-# 🚀 Título do Projeto
+# 🚀 Polo Guri WebSite
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
 ## 📋 Índice
@@ -13,13 +13,14 @@
 ---
 
 ## 📄 Descrição
-Este projeto tem o objetivo de [descrever o objetivo principal do projeto]. Ele foi criado como parte do aprendizado sobre [mencionar o tema, como Git e GitHub].
+Este projeto tem o objetivo de desenvolver um site regional para o polo cultural guri marília. Ele foi criado como parte do aprendizado do curso DEVMENTHORS.
 
 ## 💻 Tecnologias Utilizadas
 * HTML5
 * CSS3
 * Git (para controle de versão)
 * GitHub (para hospedagem e colaboração)
+* PHP (para o backend)
 
 ## 📁 Estrutura de Pastas
 
@@ -58,4 +59,9 @@ Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*! Para con
 Este projeto está sob a licença [MIT License](https://opensource.org/licenses/MIT).
 
 ## 🧑‍🤝‍🧑 Autores
-* **[Seu Nome](https://github.com/seuperfil)** - Desenvolvedor Principal
+* **[João Pedro dos Santos Pereira](https://github.com/whotfjao)**
+*  **[João Pedro Martins Falconi](https://github.com/whotfjao)**
+*  **[Mariana Del Valle Panza Mora](https://github.com/whotfjao)**
+*  **[Paulo Augusto Andrade de Moura Matilde](https://github.com/whotfjao)**
+*  
+
