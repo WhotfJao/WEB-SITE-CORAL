@@ -60,6 +60,6 @@ Este projeto está sob a licença [MIT License](https://opensource.org/licenses/
 
 ## 🧑‍🤝‍🧑 Autores
 * **[João Pedro dos Santos Pereira](https://github.com/whotfjao)**
-*  **[João Pedro Martins Falconi](https://github.com/whotfjao)**
-*  **[Mariana Del Valle Panza Mora](https://github.com/whotfjao)**
-*  **[Paulo Augusto Andrade de Moura Matilde](https://github.com/whotfjao)**
+*  **[João Pedro Martins Falconi](https://github.com/Jpzinnnnn)**
+*  **[Mariana Del Valle Panza Mora](https://github.com/marimora01)**
+*  **[Paulo Augusto Andrade de Moura Matilde](https://github.com/Guto-rz)**
